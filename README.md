@@ -1,4 +1,4 @@
-Download Link: https://t.me/+0z9FapS4mBgyZjhla
+**Download Link:** https://t.me/+0z9FapS4mBgyZjhla
 
 **GhostCrack v2** is a multi-functional penetration testing and automation tool, designed for rapid exploitation and validation of web services.
 
